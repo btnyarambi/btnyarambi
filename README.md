@@ -1,4 +1,4 @@
-<h1>Brian Nyarambi, (ISC)² CC<br/><a href="https://github.com/briannyarambi">Cloud Security Enthusiast</a></h1>
+<h1>Brian Nyarambi, (ISC)² CC<br/><a href="https://github.com/briannyarambi">Cloud Security Professional</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
