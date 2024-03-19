@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/briannyarambi)
+- [Basic Active Directory Home Lab](https://github.com/briannyarambi)
 
 
 <h2>🎓 Certifications</h2>
