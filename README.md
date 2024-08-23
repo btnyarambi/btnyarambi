@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello, I'm Brian T. Nyarambi</h1>
+<h1 align="center">Brian T. Nyarambi</h1>
 <h3 align="center">Philanthropist | Engineer | Professor</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/briannyarambi"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brian%20Nyarambi-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/brian_nyarambi"><img alt="Twitter" title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-@brian_nyarambi-1da1f2?style=for-the-badge&logo=twitter"></a>
-  <a href="https://www.youtube.com/c/briannyarambi"><img alt="YouTube" title="Subscribe on YouTube" src="https://img.shields.io/badge/YouTube-Brian%20Nyarambi-red?style=for-the-badge&logo=youtube"></a>
-  <a href="https://www.instagram.com/briannyarambi"><img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-@briannyarambi-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="https://linkedin.com/in/BTNyarambi"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brian%20Nyarambi-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/BTNyarambi"><img alt="Twitter" title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-@brian_nyarambi-1da1f2?style=for-the-badge&logo=twitter"></a>
+  <a href="https://www.youtube.com/c/BTNyarambi"><img alt="YouTube" title="Subscribe on YouTube" src="https://img.shields.io/badge/YouTube-Brian%20Nyarambi-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.instagram.com/BTNyarambi"><img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-@briannyarambi-E4405F?style=for-the-badge&logo=instagram"></a>
 </p>
 
 ---
@@ -39,10 +39,10 @@
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [Brian Nyarambi](https://linkedin.com/in/briannyarambi)  
-- **Twitter**: [@brian_nyarambi](https://twitter.com/brian_nyarambi)  
-- **YouTube**: [Brian Nyarambi](https://www.youtube.com/c/briannyarambi)  
-- **Instagram**: [@briannyarambi](https://www.instagram.com/briannyarambi)  
+- **LinkedIn**: [Brian T. Nyarambi](https://linkedin.com/in/BTNyarambi)  
+- **Twitter**: [@BTNyarambi](https://twitter.com/BTNyarambi)  
+- **YouTube**: [Brian T. Nyarambi](https://www.youtube.com/c/BTNyarambi)  
+- **Instagram**: [@BTNyarambi](https://www.instagram.com/BTNyarambi)  
 
 Feel free to reach out if you want to collaborate on open-source projects, discuss cybersecurity trends, or just connect!
 
